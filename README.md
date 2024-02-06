@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jibin006
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning Network automation
+- 👋 Hi, I’m Jibin Benny
+- 👀 Working as Nettwork Engineer in TCS
+- 🌱 I’m currently learning Network automation and python
 - 💞️ I’m looking to collaborate on automation and security
 - 📫 How to reach me 7559979727
 
