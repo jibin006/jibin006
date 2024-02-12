@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Network automation and python
 - 💞️ I’m looking to collaborate on automation and security
 - 📫 How to reach me 7559979727
+- Linkedin ID : www.linkedin.com/in/jibin-benny-35a4a217a
 
 <!---
 jibin006/jibin006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
