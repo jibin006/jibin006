@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Network Engineer in Equifax**
 
-- 🌱 I’m currently learning **Automation, Cloud, Devops, Python**
+- 🌱 I’m currently learning **Automation, Cloud Security, Devops, Python**
 
 - 💞️ I’m looking to collaborate on **automation and security**
 
