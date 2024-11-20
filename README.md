@@ -2,8 +2,9 @@
 <h3 align="center">Enthusiastic about the realms of Network Automation, Security and Networking.</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=600&lines=Network+Engineer+%7C+Cloud+Expert+%7C+Automation+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=1000&lines=Network+Engineer+%7C+Cloud+Security+Enthusiast+%7C+AI+%26+Automation+Advocate" alt="Typing SVG" />
 </div>
+
 
 - 🔭 I’m currently working as **Network Engineer in Equifax**
 
