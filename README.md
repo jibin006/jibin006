@@ -6,7 +6,7 @@
 </div>
 
 
-- 🔭 I’m currently working as **Network Security Engineer in Equifax**
+- 🔭 I’m currently working as **Cloud and Network Security Engineer in Equifax**
 
 - 🌱 I’m currently learning **Automation, Cloud Security, Devops, Python**
 
