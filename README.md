@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **7559979727**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1Ndmzn0V8qAdD8IcDrvu4wU--1aLlaQLg/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1STacHGMncjeRkTxTevYjdOJR5nCvPy2q/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
