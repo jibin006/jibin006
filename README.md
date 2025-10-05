@@ -39,6 +39,7 @@
 | **Secure CI/CD Pipeline** | GitHub Actions enforcing SBOM, artifact signing & secret scanning | GitHub Actions · Trivy · Cosign |
 | **Kubernetes Admission Controller** | Policy-as-Code blocking privileged or unsigned containers | OPA/Gatekeeper · Kyverno |
 | **AI SOC Assistant** | LLM-powered bot for auto-triage & isolation of compromised workloads | AWS Lambda · OpenAI API |
+| **Network Automation Assistant (AI-Powered)** | Cisco automation with AI insights using Gemini + LangChain for intelligent troubleshooting | Python · Netmiko · LangChain · Google Gemini |
 
 ---
 
