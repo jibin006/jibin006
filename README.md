@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **Currently:** Cloud & Network Security Engineer @ **Equifax**
+- 🔭 **Currently:** Cloud Security Engineer @ **Equifax**
 - 🧩 **Mission:** To build automated, AI-driven security systems that scale across multi-cloud environments.
 - 🌱 **Learning Focus (2025):** IaC Security, DevSecOps, Kubernetes Security, Threat Detection & Response.
 - 🚀 **Projects:** Terraform Secure IAM Modules · Secure CI/CD Pipelines · AI-SOC Assistants · Kubernetes Policy Enforcement.
