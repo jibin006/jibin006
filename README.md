@@ -32,14 +32,19 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🔐 Security Engineering Projects
+
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Terraform Secure IAM Module** | Least-privilege AWS & GCP IAM templates with OPA + tfsec guardrails | Terraform · OPA · tfsec |
-| **Secure CI/CD Pipeline** | GitHub Actions enforcing SBOM, artifact signing & secret scanning | GitHub Actions · Trivy · Cosign |
-| **Kubernetes Admission Controller** | Policy-as-Code blocking privileged or unsigned containers | OPA/Gatekeeper · Kyverno |
-| **AI SOC Assistant** | LLM-powered bot for auto-triage & isolation of compromised workloads | AWS Lambda · OpenAI API |
-| **Network Automation Assistant (AI-Powered)** | Cisco automation with AI insights using Gemini + LangChain for intelligent troubleshooting | Python · Netmiko · LangChain · Google Gemini |
+|---------|-------------|------------|
+| [**Secure Cloud Foundation**](https://github.com/jibin006/secure-cloud-foundation) | Multi-account AWS security architecture — SCPs, hub-spoke VPC, KMS encryption, secrets rotation, centralized logging, and EventBridge-driven detection pipeline with auto-remediation | Terraform · Python · AWS |
+| [**IAM Drift Detector**](https://github.com/jibin006/iam-drift-detector) | Cross-account IAM drift detection with baseline snapshots, differential analysis, and blast-radius-based severity scoring — deployed as Lambda + EventBridge pipeline | Python · boto3 · Lambda |
+| [**Terraform Secure Modules + OPA Policies**](https://github.com/jibin006/terraform-secure-modules) | 4 hardened Terraform modules with security defaults enforced + 14 OPA/Conftest policies blocking misconfigurations at PR-time with testing framework and CI enforcement | Terraform · OPA/Rego · Conftest |
+| [**Secure CI/CD Pipeline**](https://github.com/jibin006/secure-cicd-pipeline) | Keyless OIDC federation + Cosign image signing + SBOM generation + Kubernetes admission verification — with STRIDE threat model covering 4 attack scenarios | GitHub Actions · Cosign · Sigstore |
+| [**K8s Security Enforcement**](https://github.com/jibin006/kubernetes-security-enforcement) | 18 Gatekeeper constraint templates + Falco runtime detection + RBAC + Pod Security Standards + network policies with default-deny + investigation runbooks | Kubernetes · Gatekeeper · Falco |
+| [**Cloud IR Toolkit**](https://github.com/jibin006/cloud-ir-toolkit) | Automated evidence collection + Lambda containment (isolation, IAM revocation, S3 quarantine) + incident response playbooks with rollback capability | Python · Lambda · Terraform |
+| [**GCP Workload Identity**](https://github.com/jibin006/gcp-workload-identity-federation) | Keyless GCP auth from GitHub Actions + AWS, GCP Org Policies, VPC security, Cloud Audit Logs to BigQuery | Terraform · GCP · GitHub Actions |
+| [**LLM Prompt Injection Detector**](https://github.com/jibin006/llm-prompt-injection-detector) | Multi-layer prompt injection detection (pattern + heuristic + embedding) as FastAPI proxy for LLM API security | Python · FastAPI · LLM Security |
+
 
 ---
 
