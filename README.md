@@ -46,8 +46,8 @@ and respond** — not just audit after the fact.
 
 | Project | What It Solves | Stack | Status |
 |---------|---------------|-------|--------|
-| [**IAM Drift Detector**](https://github.com/jibin006/iam-drift-detector) | Detects unauthorized IAM changes across accounts with 4-level blast-radius severity scoring | Python, Lambda, EventBridge | ✅ Complete |
 | [**LLM Prompt Injection Detector**](https://github.com/jibin006/llm-prompt-injection-detector) | 3-layer prompt injection defense — pattern matching, structural heuristics, RAG indirect injection scanning | Python, FastAPI | ✅ Complete |
+| [**IAM Drift Detector**](https://github.com/jibin006/iam-drift-detector) | Detects unauthorized IAM changes across accounts with 4-level blast-radius severity scoring | Python, Lambda, EventBridge | ✅ Complete |
 
 ### Infrastructure Security Tooling
 
