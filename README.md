@@ -53,6 +53,7 @@ and respond** — not just audit after the fact.
 
 | Project | What It Solves | Stack | Status |
 |---------|---------------|-------|--------|
+| [**Cloud Security IAM Platform**](https://github.com/jibin006/gcp-workload-identity-federation) | End-to-end identity security platform implementing GitHub OIDC federation, cross-account trust, permission-boundary role vending, and IAM drift detection with privilege-escalation path analysis | Python, AWS IAM, STS, Lambda, EventBridge, GitHub Actions | 🔨 Building |
 | [**Secure Cloud Foundation**](https://github.com/jibin006/secure-cloud-foundation) | Multi-account AWS security baseline — SCPs, hub-spoke networking, KMS encryption, centralized logging, EventBridge auto-remediation | Terraform, Python, AWS | 🔨 Building  |
 | [**Terraform Secure Modules + OPA**](https://github.com/jibin006/terraform-secure-modules) | Hardened Terraform modules + 14 OPA policies blocking misconfigurations at PR-time | Terraform, OPA/Rego, Conftest | 🔨 Building |
 | [**Secure CI/CD Pipeline**](https://github.com/jibin006/secure-cicd-pipeline) | Keyless OIDC auth + artifact signing + SBOM + admission verification with STRIDE threat model | GitHub Actions, Cosign, Sigstore | 🔨 Building |
@@ -63,7 +64,6 @@ and respond** — not just audit after the fact.
 | Project | What It Solves | Stack | Status |
 |---------|---------------|-------|--------|
 | [**Cloud IR Toolkit**](https://github.com/jibin006/cloud-ir-toolkit) | Automated evidence collection + Lambda containment + incident response playbooks | Python, Lambda, Terraform | 🔨 Building |
-| [**GCP Workload Identity**](https://github.com/jibin006/gcp-workload-identity-federation) | Keyless GCP auth from GitHub Actions + AWS, Org Policies, VPC security, audit logging | Terraform, GCP, GitHub Actions | 🔨 Building |
 
 ---
 
