@@ -20,11 +20,12 @@ I focus on **security systems that prevent, detect,
 and respond** — not just audit after the fact.
 
 **Prevent:**
-- Terraform security baselines with policy-as-code 
+- Identity security platforms implementing GitHub OIDC federation,
+  cross-account trust controls, IAM permission boundaries, and organization-level guardrails
+- Terraform security baselines with policy-as-code
   enforcement (OPA/Rego)
 - CI/CD security gates that block misconfigurations 
   before deployment
-- IAM permission boundaries and SCPs at org level
 
 **Detect:**
 - IAM drift detection with blast-radius severity scoring
