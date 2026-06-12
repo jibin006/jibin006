@@ -56,8 +56,8 @@ and respond** — not just audit after the fact.
 |---------|---------------|-------|--------|
 | [**Cloud Security IAM Platform**](https://github.com/jibin006/gcp-workload-identity-federation) | End-to-end identity security platform implementing GitHub OIDC federation, cross-account trust, permission-boundary role vending, and IAM drift detection with privilege-escalation path analysis | Python, AWS IAM, STS, Lambda, EventBridge, GitHub Actions | 🔨 Building |
 | [**Secure Cloud Foundation**](https://github.com/jibin006/secure-cloud-foundation) | Multi-account AWS security baseline — SCPs, hub-spoke networking, KMS encryption, centralized logging, EventBridge auto-remediation | Terraform, Python, AWS | 🔨 Building  |
-| [**Terraform Secure Modules + OPA**](https://github.com/jibin006/terraform-secure-modules) | Hardened Terraform modules + 14 OPA policies blocking misconfigurations at PR-time | Terraform, OPA/Rego, Conftest | 🔨 Building |
-| [**security-guardrails-platform**](https://github.com/jibin006/secure-cicd-pipeline) | Keyless OIDC auth + artifact signing + SBOM + admission verification with STRIDE threat model | GitHub Actions, Cosign, Sigstore | 🔨 Building |
+| [**Security-guardrails-platform**](https://github.com/jibin006/terraform-secure-modules) | Hardened Terraform modules + 14 OPA policies blocking misconfigurations at PR-time | Terraform, OPA/Rego, Conftest | 🔨 Building |
+| [**Secure-cicd-pipeline**](https://github.com/jibin006/secure-cicd-pipeline) | Keyless OIDC auth + artifact signing + SBOM + admission verification with STRIDE threat model | GitHub Actions, Cosign, Sigstore | 🔨 Building |
 | [**K8s Security Enforcement**](https://github.com/jibin006/kubernetes-security-enforcement) | 18 Gatekeeper constraints + Falco runtime detection + RBAC + default-deny networking | Kubernetes, Gatekeeper, Falco | 🔨 Building |
 
 ### Detection & Response
