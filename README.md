@@ -22,8 +22,7 @@ and respond** — not just audit after the fact.
 **Prevent:**
 - Identity security platforms implementing GitHub OIDC federation,
   cross-account trust controls, IAM permission boundaries, and organization-level guardrails
-- Terraform security baselines with policy-as-code
-  enforcement (OPA/Rego)
+- Terraform security baselines with policy-as-code guardrails, automated compliance checks, and CI/CD enforcement (OPA/Rego)
 - CI/CD security gates that block misconfigurations 
   before deployment
 
@@ -49,6 +48,7 @@ and respond** — not just audit after the fact.
 |---------|---------------|-------|--------|
 | [**LLM Prompt Injection Detector**](https://github.com/jibin006/llm-prompt-injection-detector) | 3-layer prompt injection defense — pattern matching, structural heuristics, RAG indirect injection scanning | Python, FastAPI | ✅ Complete |
 | [**IAM Drift Detector**](https://github.com/jibin006/iam-drift-detector) | Detects unauthorized IAM changes across accounts with 4-level blast-radius severity scoring | Python, Lambda, EventBridge | ✅ Complete |
+| [**Security-Guardrails-Platform**](https://github.com/jibin006/terraform-secure-modules) | Built a policy-driven Security Guardrails Platform with suppression governance, remediation enrichment, and centralized security gating for developer-friendly CI/CD security workflows | OPA/Rego, Semgrep, detect-secrets, pip-audit, GitHub Actions| ✅ Complete |
 
 ### Infrastructure Security Tooling
 
@@ -56,7 +56,6 @@ and respond** — not just audit after the fact.
 |---------|---------------|-------|--------|
 | [**Cloud Security IAM Platform**](https://github.com/jibin006/gcp-workload-identity-federation) | End-to-end identity security platform implementing GitHub OIDC federation, cross-account trust, permission-boundary role vending, and IAM drift detection with privilege-escalation path analysis | Python, AWS IAM, STS, Lambda, EventBridge, GitHub Actions | 🔨 Building |
 | [**Secure Cloud Foundation**](https://github.com/jibin006/secure-cloud-foundation) | Multi-account AWS security baseline — SCPs, hub-spoke networking, KMS encryption, centralized logging, EventBridge auto-remediation | Terraform, Python, AWS | 🔨 Building  |
-| [**Security-guardrails-platform**](https://github.com/jibin006/terraform-secure-modules) | Hardened Terraform modules + 14 OPA policies blocking misconfigurations at PR-time | Terraform, OPA/Rego, Conftest | 🔨 Building |
 | [**secure-software-supply-chain**](https://github.com/jibin006/secure-cicd-pipeline) | Keyless OIDC auth + artifact signing + SBOM + admission verification with STRIDE threat model | GitHub Actions, Cosign, Sigstore | 🔨 Building |
 | [**K8s Security Enforcement**](https://github.com/jibin006/kubernetes-security-enforcement) | 18 Gatekeeper constraints + Falco runtime detection + RBAC + default-deny networking | Kubernetes, Gatekeeper, Falco | 🔨 Building |
 
