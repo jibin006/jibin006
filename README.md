@@ -94,6 +94,7 @@ and respond** — not just audit after the fact.
 
 ## Connect
 
+- [Portfolio](https://jibin-benny06.grok.me/)
 - 📧 jibinbenny06@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jibin-benny-35a4a217a/)
 - 📄 [Resume](https://github.com/jibin006/jibin006/blob/main/Jibin_Benny_Cloudsec_2026_1777316688927_Jibin%20Benny.pdf)
