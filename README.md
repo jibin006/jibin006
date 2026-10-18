@@ -72,8 +72,8 @@ and respond** — not just audit after the fact.
 ## Certifications
 
 - ✅ **GCP Professional Cloud Security Engineer** (2025)
-- 🔄 **AWS Security Specialty** (Expected June 2026)
-- 🔄 **CKS — Certified Kubernetes Security Specialist** (Expected August 2026)
+- ✅ **Microsoft Certified: Cloud and AI Security Engineer Associate** (October 2026)
+- 🔄 **CKS — Certified Kubernetes Security Specialist** (Expected January 2027)
 
 ---
 
